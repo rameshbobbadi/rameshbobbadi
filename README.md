@@ -1,16 +1,51 @@
-## Hi there 👋
+# Bobbadi Ramesh
 
-<!--
-**rameshbobbadi/rameshbobbadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer Intern at Shnoor International LLC**  
+**Python Full Stack Developer**
 
-Here are some ideas to get you started:
+I enjoy building scalable, user-focused web applications with modern technologies. I'm passionate about learning, solving real-world problems, and continuously improving my software engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+### Languages
+- Python
+- JavaScript (ES6+)
+- SQL
+
+### Frontend
+- React.js
+- HTML5
+- CSS3
+
+### Backend
+- Django
+- Django REST Framework
+- REST APIs
+
+### Databases
+- Oracle SQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Figma
+
+---
+
+## Current Focus
+
+- Building production-ready full stack applications
+- Designing RESTful APIs
+- Improving React architecture and performance
+- Learning software engineering best practices
+
+## Connect
+
+- LinkedIn: www.linkedin.com/in/bobbadi-ramesh
+
+---
+
+> *"Code with clarity. Build with purpose. Keep learning."*
